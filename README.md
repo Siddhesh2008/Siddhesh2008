@@ -4,12 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;;Learning+One+Commit+at+a+Time" />
 
-
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=Siddhesh2008&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 
 
 
-![alt text](coding-anime.gif)
+<img src="gif.webp" width="400"/>
 </div>
 
 ---
