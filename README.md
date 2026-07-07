@@ -89,13 +89,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-readme-stats-alpha-woad-98.vercel.app/?username=Siddhesh2008&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
