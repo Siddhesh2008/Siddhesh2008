@@ -41,10 +41,11 @@
 # 📚 Currently Learning
 
 ```text
-🐍 Python           ██████████ 100%
+🐍 Python           ████████░░ 80%
 🔢 NumPy            ███████░░░ 70%
-🐼 Pandas           ████░░░░░░ 40%
-📊 Matplotlib       ███░░░░░░░ 30%
+🐼 Pandas           █████░░░░░ 50%
+📊 Matplotlib       ██████░░░░ 55%
+🌊 Seaborn          ████░░░░░░ 40%
 🤖 Machine Learning ░░░░░░░░░░ Coming Soon...
 ```
 
