@@ -2,7 +2,7 @@
 
 # ⚡ Hey, I'm Siddhesh Bala 👋
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Python+Learner;Exploring+Data+Science;Learning+One+Commit+at+a+Time"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1700&pause=250&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+Initializing...;%3E+Learning+Python;%3E+Exploring+Data+Science;%3E+Building+the+Future"/>
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Siddhesh2008&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
