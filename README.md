@@ -28,7 +28,7 @@
 
 ---
 
-# 🛠 Tech Stack
+#  <img src="https://cdn3.emoji.gg/emojis/555931-settings.gif" width="30" alt="wave"> Tech Stack
 
 <p align="center">
 
@@ -36,19 +36,22 @@
 
 </p>
 
-#Other Platforms
+#  <img src="https://cdn3.emoji.gg/emojis/452028-tick.gif" width="30" alt="wave"> Other Platforms
 
 <p align="center">
 
 <a href="https://exercism.org/profiles/Siddhesh2008" target="_blank">
   <img src="https://img.shields.io/badge/Exercism-Siddhesh2008-130B43?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism Profile">
 </a>
+<a href="https://instagram.com/zoro_d.sid">
+  <img src="https://img.shields.io/badge/Instagram-@zoro__d.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+#  <img src="https://cdn3.emoji.gg/emojis/46530-book.gif" width="30" alt="wave"> Currently Learning
 
 ```text
 🐍 Python           ████████░░ 80%
@@ -61,7 +64,7 @@
 
 ---
 
-# 🚀 My Repositories
+#  <img src="https://cdn3.emoji.gg/emojis/380513-minecraftclock.gif" width="30" alt="wave"> My Repositories
 
 ⭐ Python Learning
 
@@ -83,7 +86,7 @@
 
 ---
 
-# 📈 GitHub Analytics
+#  <img src="https://cdn3.emoji.gg/emojis/9214-allay.gif" width="30" alt="wave"> GitHub Analytics
 
 <p align="center">
 
@@ -95,7 +98,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+#  <img src="https://cdn3.emoji.gg/emojis/267042-fire.gif" width="30" alt="wave"> Contribution Streak
 
 <p align="center">
 
@@ -122,7 +125,7 @@
 
 ---
 
-# 🎯 2026 Goals
+#  <img src="https://cdn3.emoji.gg/emojis/79718-robux.png" width="30" alt="wave">  2026 Goals
 
 ✅ Master Python
 
@@ -138,7 +141,7 @@
 
 ---
 
-# 💭 Quote
+#  <img src="https://cdn3.emoji.gg/emojis/31071-yap.gif" width="30" alt="wave"> Quote
 
 > **"Small commits every day build extraordinary skills."**
 
