@@ -46,6 +46,9 @@
 <a href="https://instagram.com/zoro_d.sid">
   <img src="https://img.shields.io/badge/Instagram-@zoro__d.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+<a href="https://www.roblox.com/users/1514841623/profile">
+  <img src="https://img.shields.io/badge/Roblox-prosiddhu2008-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Profile">
+</a>
 
 </p>
 
