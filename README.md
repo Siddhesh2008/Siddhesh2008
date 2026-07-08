@@ -36,6 +36,16 @@
 
 </p>
 
+#Other Platforms
+
+<p align="center">
+
+<a href="https://exercism.org/profiles/Siddhesh2008" target="_blank">
+  <img src="https://img.shields.io/badge/Exercism-Siddhesh2008-130B43?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism Profile">
+</a>
+
+</p>
+
 ---
 
 # 📚 Currently Learning
