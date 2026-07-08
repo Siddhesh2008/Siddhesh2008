@@ -1,8 +1,8 @@
 <div align="center">
 
 # ⚡ Hey, I'm Siddhesh Bala 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;;Learning+One+Commit+at+a+Time" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=27&pause=300&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;;Learning+One+Commit+at+a+Time" />
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Siddhesh2008&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
