@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=250&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Learning+Python;Building+Cool+Projects;One+Commit+at+a+Time+%F0%9F%9A%80"/>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Siddhesh2008&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Siddhesh2008&label=Profile+Views&color=00f7ff&style=for-the-badge"/> <img src="https://cdn3.emoji.gg/emojis/347589-ring.gif" width="30" alt="wave">
 
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+# <img src="https://cdn3.emoji.gg/emojis/405061-impulso.gif" width="30" alt="wave"> About Me
 
 🎓 AI & Data Science Student
 
