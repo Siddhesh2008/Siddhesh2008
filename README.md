@@ -67,6 +67,8 @@
 
 ⭐ Assignments
 
+⭐SeaBorn
+
 ...and many more to come 🚀
 
 ---
