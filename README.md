@@ -22,7 +22,7 @@
 
 🌱 Currently building a strong programming foundation before diving into AI & Machine Learning
 
-📚 I believe in learning by building projects and documenting everything on GitHub.
+📚 I believe in learning by building projects and documenting everything on GitHub
 
 🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects
 
