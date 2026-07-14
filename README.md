@@ -134,7 +134,7 @@
 
 ✅ Become proficient with NumPy, Pandas & Matplotlib
 
-✅ Learn Machine Learning
+✅ Learn Machine Learning.
 
 ✅ Build AI projects
 
