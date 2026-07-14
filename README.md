@@ -132,7 +132,7 @@
 
 ✅ Master Python
 
-✅ Become proficient with NumPy, Pandas & Matplotlib
+✅ Become proficient with NumPy, Pandas & Matplotlib.
 
 ✅ Learn Machine Learning.
 
