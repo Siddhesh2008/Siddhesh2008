@@ -62,7 +62,7 @@
 🐼 Pandas           █████░░░░░ 50%
 📊 Matplotlib       ██████░░░░ 55%
 🌊 Seaborn          ████░░░░░░ 40%
-🤖 Machine Learning ░░░░░░░░░░ Coming Soon...
+🤖 Machine Learning ░░░░░░░░░░ Coming Soon..
 ```
 
 ---
