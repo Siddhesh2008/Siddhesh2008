@@ -20,7 +20,7 @@
 
 💻 Learning Python, NumPy, Pandas & Matplotlib
 
-🌱 Currently building a strong programming foundation before diving into AI & Machine Learning
+🌱 Currently building a strong programming foundation before diving into AI & Machine Learning.
 
 📚 I believe in learning by building projects and documenting everything on GitHub
 
