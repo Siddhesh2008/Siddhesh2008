@@ -18,7 +18,7 @@
 
 🎓 AI & Data Science Student
 
-💻 Learning Python, NumPy, Pandas & Matplotlib
+💻 Learning Python, NumPy, Pandas & Matplotlib.
 
 🌱 Currently building a strong programming foundation before diving into AI & Machine Learning
 
