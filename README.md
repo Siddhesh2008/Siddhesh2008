@@ -24,7 +24,7 @@
 
 📚 I believe in learning by building projects and documenting everything on GitHub
 
-🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects
+🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects.
 
 ---
 
