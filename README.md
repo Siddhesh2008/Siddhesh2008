@@ -16,7 +16,7 @@
 
 # <img src="https://cdn3.emoji.gg/emojis/405061-impulso.gif" width="30" alt="wave"> About Me
 
-🎓 AI & Data Science Student
+🎓 AI & Data Science Student.
 
 💻 Learning Python, NumPy, Pandas & Matplotlib.
 
