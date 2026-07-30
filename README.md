@@ -25,7 +25,7 @@
 📚 I believe in learning by building projects and documenting everything on GitHub
 
 🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects
-
+.
 ---
 
 #  <img src="https://cdn3.emoji.gg/emojis/555931-settings.gif" width="30" alt="wave"> Tech Stack
